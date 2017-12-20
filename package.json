@@ -1,0 +1,12 @@
+{
+  "name": "__match-base-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "eslint index.js src"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  }
+}
